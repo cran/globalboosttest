@@ -1,0 +1,9 @@
+463981e9774a294346a01ed71bb120d0 *DESCRIPTION
+45a465de7ed48256e882de3d855597bc *NAMESPACE
+20cd7d7d79422e9f5d81969bd06b3761 *R/globalboosttest.r
+b0d7e8949def16cbbf82e63f27f03e90 *data/simdatabin.RData
+794ef49c6a170915854bd6bb646bb22c *data/simdatasurv.RData
+5459139c1d51ea26a9574140a850e96c *man/globalboosttest-internal.Rd
+5c7c87da804911d1beae70f67124fe32 *man/globalboosttest.Rd
+38ef59f57a462ce9530683dce7001381 *man/simdatabin.Rd
+4a2b5b73fc206a66f58554dc54c268e1 *man/simdatasurv.Rd
